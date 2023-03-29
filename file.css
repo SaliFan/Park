@@ -1,0 +1,124 @@
+body{background-color: rgb(209, 209, 209);
+    width: 99.6%;
+    height: 100%;
+    text-align: center;
+}
+
+.about{
+    background-color: rgba(187, 255, 0, 0.473);
+
+    width: 50%;
+    margin-left: 25%;
+text-align: center;
+    
+
+}
+
+
+header{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+    background-image: url(YAK_5046.jpg);
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+
+}
+
+.park-name{
+    
+    display: flex;
+   justify-content: center;
+   margin-left: 720px;
+
+
+}
+
+.worktime{
+    margin-left: 35%;
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    background-color: rgba(187, 255, 0, 0.473);
+
+}
+
+.maintime{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin-right: 30px;
+    width: 300px;
+}
+
+.worktime-cafe{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 30px;
+    width: 300px;
+
+
+}
+
+.buytickets{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+
+}
+
+    .First-ticket{
+        padding: 20px;
+        text-align: center;
+        height: 250px;
+        width: 400px;
+        background-color: aqua;
+        background: linear-gradient(to bottom right, rgb(157, 235, 32), rgba(255, 192, 203, 0.582));
+        border: 2px solid;
+    }
+
+    .Second-ticket{
+        margin-left: 30px;
+        padding: 20px;
+        text-align: center;
+        height: 250px;
+        width: 400px;
+        background-color: aqua;
+        background: linear-gradient(to bottom right, rgb(157, 235, 32), rgba(255, 192, 203, 0.582));
+        border: 2px solid;
+    }
+
+    .Third-ticket{
+        margin-left: 30px;
+        padding: 20px;
+        text-align: center;
+        height: 250px;
+        width: 400px;
+        background-color: aqua;
+        background: linear-gradient(to bottom right, rgb(157, 235, 32), rgba(255, 192, 203, 0.582));
+        border: 2px solid;
+
+    }
+
+button{
+    background-color: rgba(172, 255, 47, 0.39);
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+
+}
+
+button:hover{
+    background-color: green;
+
+
+}
+
+footer{
+
+    margin-top: 20px;
+    border-top: 2px solid black;
+
+
+}
